@@ -1,0 +1,1243 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WFACEXAM2015</name>
+    </assembly>
+    <members>
+        <member name="M:WFACEXAM2015.C0409_frmSumArray.MultiSingle2(System.Int32,System.Int32)">
+            <summary>
+            m-n之间的奇数的累乘积
+            </summary>
+            <param name="im"></param>
+            <param name="iNum"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WFACEXAM2015.C0409_frmSumArray.jieChen(System.Int32)">
+            <summary>
+            求n的阶乘
+            </summary>
+            <param name="n"></param>
+            <returns></returns>
+        </member>
+        <member name="F:WFACEXAM2015.C0409_frmSumArray.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0409_frmSumArray.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0409_frmSumArray.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:WFACEXAM2015.C0601_frmStInfo3">
+            <summary>
+            定义学生基本信息结构类型，用于接收输入的学生基本信息
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0601_frmStInfo3.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0601_frmStInfo3.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0601_frmStInfo3.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0604_frmStInfoQuery.dbFetchData(System.String)">
+            <summary>
+            刷新及显示相关数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:WFACEXAM2015.C0604_frmStInfoQuery.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0604_frmStInfoQuery.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0604_frmStInfoQuery.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0603_frmStScoreInput.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0603_frmStScoreInput.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0603_frmStScoreInput.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.AboutBox1.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.AboutBox1.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.AboutBox1.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要修改
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0101_frmHelloWorld.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0101_frmHelloWorld.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0101_frmHelloWorld.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0102_frmAttribute.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0102_frmAttribute.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0102_frmAttribute.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0103_frmEventFocus.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0103_frmEventFocus.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0103_frmEventFocus.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0104_frmMp3.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0104_frmMp3.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0104_frmMp3.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0105_frmLogin.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0105_frmLogin.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0105_frmLogin.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0106_frmTriangle.PrintTriangle(System.Int32)">
+            <summary>
+            int length = 5;//杨辉三角形的长度为6
+            </summary>
+            <param name="length"></param>
+        </member>
+        <member name="F:WFACEXAM2015.C0106_frmTriangle.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0106_frmTriangle.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0106_frmTriangle.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0107_frmSystem.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0107_frmSystem.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0107_frmSystem.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0108_frmLogin.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0108_frmLogin.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0108_frmLogin.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0132_frmPPT.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0132_frmPPT.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0132_frmPPT.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0201_frmAttribute.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0201_frmAttribute.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0201_frmAttribute.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0202_frmMethod.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0202_frmMethod.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0202_frmMethod.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0203_frmEvent.pi">
+            <summary>
+            C0203_frmEvent.pi  ——公共常量的引用，作为类的成员/属性引用
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0203_frmEvent.which(System.Int32)">
+            <summary>
+            函数的定义、返回值的定义
+            多分支语句的定义和使用
+            </summary>
+            <param name="k"></param>
+            参数的定义和使用
+            <returns></returns>
+        </member>
+        <member name="F:WFACEXAM2015.C0203_frmEvent.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0203_frmEvent.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0203_frmEvent.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0204_frmLabel.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0204_frmLabel.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0204_frmLabel.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0205_frmIsNumber.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0205_frmIsNumber.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0205_frmIsNumber.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0206_frmMoveCharactors.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0206_frmMoveCharactors.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0206_frmMoveCharactors.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0207_frmFrameRadioBtn.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0207_frmFrameRadioBtn.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0207_frmFrameRadioBtn.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0208_frmList2List2.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0208_frmList2List2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0208_frmList2List2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0209_frmDisplayValueOfList.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0209_frmDisplayValueOfList.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0209_frmDisplayValueOfList.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0210_frmList2List.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0210_frmList2List.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0210_frmList2List.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0211_frmTimer.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0211_frmTimer.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0211_frmTimer.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0212_frmFormMode.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0212_frmFormMode.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0212_frmFormMode.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0213_frmAboutBox.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0213_frmAboutBox.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0213_frmAboutBox.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要修改
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0230_frmStScore.Jiechen(System.Int32)">
+            <summary>
+            函数的定义和调用
+            </summary>
+            <param name="n">要计算阶乘的自然数</param>
+            <returns></returns>
+        </member>
+        <member name="F:WFACEXAM2015.C0230_frmStScore.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0230_frmStScore.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0230_frmStScore.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0100_MDIParent.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0100_MDIParent.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0100_MDIParent.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要修改
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0401_frmIf.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0401_frmIf.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0401_frmIf.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0301_frmNumericAccuracy.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0301_frmNumericAccuracy.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0301_frmNumericAccuracy.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0302_frmCompare.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0302_frmCompare.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0302_frmCompare.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0303_frmArray.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0303_frmArray.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0303_frmArray.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0304_frmArray2.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0304_frmArray2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0304_frmArray2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0305_frmExpression.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0305_frmExpression.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0305_frmExpression.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0402_frmSwitch.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0402_frmSwitch.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0402_frmSwitch.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0403_frmWhile.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0403_frmWhile.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0403_frmWhile.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0404_frmDoWhile.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0404_frmDoWhile.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0404_frmDoWhile.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0403_frmNestedIf.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0403_frmNestedIf.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0403_frmNestedIf.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0405_frmFor.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0405_frmFor.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0405_frmFor.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0406_frmForEach.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0406_frmForEach.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0406_frmForEach.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:WFACEXAM2015.C0407_frmBreak">
+            <summary>
+            Break语句的使用，在特定情况下跳出循环
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0407_frmBreak.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0407_frmBreak.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0407_frmBreak.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0407_frmMultiplicationTables.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0407_frmMultiplicationTables.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0407_frmMultiplicationTables.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0408_frmContinue.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0408_frmContinue.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0408_frmContinue.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0502_frmCalculater.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0502_frmCalculater.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0502_frmCalculater.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0501_frmStudent.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0501_frmStudent.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0501_frmStudent.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0131_ChickenWorm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0131_ChickenWorm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0131_ChickenWorm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:WFACEXAM2015.Student">
+            <summary>
+            定义学生基本信息结构类型，用于接收输入的学生基本信息
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0215_frmStInfo.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0215_frmStInfo.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0215_frmStInfo.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.C0605_frmProjSel.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0605_frmProjSel.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0605_frmProjSel.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.frmAbout.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.frmAbout.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.frmAbout.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.frmExam.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.frmExam.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.frmExam.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.frmHelloWorld1001.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.frmHelloWorld1001.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.frmHelloWorld1001.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.frmSchool.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.frmSchool.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.frmSchool.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.frmScore.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.frmScore.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.frmScore.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.frmUser.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.frmUser.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.frmUser.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.MDIParent1.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.MDIParent1.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:WFACEXAM2015.MDIParent1.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要修改
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:WFACEXAM2015.MDIParent2.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.MDIParent2.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:WFACEXAM2015.MDIParent2.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要修改
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.Program.Main">
+            <summary>
+            应用程序的主入口点。
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.DbConnection.InitCombo(System.String,System.Windows.Forms.ComboBox)">
+            <summary>
+            初始化下拉列表框——使用有连接保持的方式访问数据库
+            </summary>
+            <param name="strSQL">数据来源SQL</param>
+            <param name="cboInit">需要初始化的下拉列表框</param>
+            <returns>1——成功；0——失败</returns>
+        </member>
+        <member name="M:WFACEXAM2015.DbConnection.InitComboDataSet(System.String,System.Windows.Forms.ComboBox,System.String)">
+            <summary>
+            初始化下拉列表框——使用无连接保持的方式访问数据库
+            </summary>
+            <param name="strSQL">数据来源SQL</param>
+            <param name="cboInit">需要初始化的下拉列表框</param>
+            <returns>1——成功；0——失败</returns>
+        </member>
+        <member name="M:WFACEXAM2015.C0601_frmStInfo.RecSave2DB">
+            保存用户输入数据到学生信息表[tbl_StInfo]中，成功返回1，失败返回0
+        </member>
+        <member name="F:WFACEXAM2015.C0601_frmStInfo.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0601_frmStInfo.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0601_frmStInfo.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0602_frmStInfoView.dbFetchData(System.String)">
+            <summary>
+            刷新及显示相关数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:WFACEXAM2015.C0602_frmStInfoView.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WFACEXAM2015.C0602_frmStInfoView.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WFACEXAM2015.C0602_frmStInfoView.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:WFACEXAM2015.Properties.Resources">
+            <summary>
+              一个强类型的资源类，用于查找本地化的字符串等。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.ResourceManager">
+            <summary>
+              返回此类使用的缓存的 ResourceManager 实例。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.Culture">
+            <summary>
+              重写当前线程的 CurrentUICulture 属性，对
+              使用此强类型资源类的所有资源查找执行重写。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.delete">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.delete1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.ertong_shangxue_xuexi_019">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.floppy15">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.GLOBE">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.GLOBE1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.GLOBE2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.GLOBE3">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.imgSceen1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.logout">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.N11_1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.N11_2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.N11_3">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.N11_41">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.N11_42">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.N11_43">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.N11_44">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.N11_45">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.plus14">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.search">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.公式">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.北京交通大学校徽3">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.小背景">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.幸运星_标">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WFACEXAM2015.Properties.Resources.幸运星_标1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+    </members>
+</doc>
